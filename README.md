@@ -1,4 +1,4 @@
-Android User Interface Samples Repository
+Android User Technology Interface Samples Repository
 =========================================
 
 This repository contains a set of individual Android Studio projects to help you get
